@@ -1,2 +1,2 @@
 # python
- Python Libraries for data analysis
+practising basics of Python Libraries for data analysis
