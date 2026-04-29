@@ -1,5 +1,5 @@
-# python
-practising essential of Python Libraries for data analysis.
+# PYTHON
+Practising essential of Python Libraries for data analysis.
 
 STRING
 
